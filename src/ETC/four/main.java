@@ -14,7 +14,7 @@ public class main {
 
         while(mok > 0) {
 
-            bin[i] = mok % 2;
+            bin[1] = mok % 2;
             mok /=2;
             i++;
 
