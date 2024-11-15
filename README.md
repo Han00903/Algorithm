@@ -1,9 +1,11 @@
 # Algorithm
 
-<br>
+## 코드 리뷰
+> ## Baekjoon
+[1. 설탕 배달(2839)](https://hot-cheshire-a21.notion.site/13d821c78b6081ba8de4c9d2ebd34d0d?pvs=4)
 
- **Algorithm**  
-> Notion: 알고리즘 개념 정리<br>
-> Baekjoon: 백준 코딩테스트<br>
-> Programmers: 프로그래머스 코딩테스트<br>
-> ETC: 유튜브 알고리즘 기초 100제
+
+> ## Programmers
+
+> ## ETC
+
