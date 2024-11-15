@@ -1,9 +1,15 @@
 # Algorithm
 
-<br>
+## 코드 리뷰
+> ## Baekjoon
+[1. 설탕 배달(2839)](https://hot-cheshire-a21.notion.site/13d821c78b6081ba8de4c9d2ebd34d0d?pvs=4)<br>
+[2. 직사각형에서 탈출(1085)]<br>
+[3. 괄호(9012)](https://hot-cheshire-a21.notion.site/13d821c78b6080e2b8c4ff5bbc6219b9?pvs=4)<br>
 
- **Algorithm**  
-> Notion: 알고리즘 개념 정리<br>
-> Baekjoon: 백준 코딩테스트<br>
-> Programmers: 프로그래머스 코딩테스트<br>
-> ETC: 유튜브 알고리즘 기초 100제
+
+
+
+> ## Programmers
+
+> ## ETC
+
