@@ -8,6 +8,8 @@
 [4. 분산 처리(1009)](https://hot-cheshire-a21.notion.site/13d821c78b60803291abe329f082e282)<br>
 [5. 알람 시계(2884)](https://hot-cheshire-a21.notion.site/13d821c78b608012a307fe52d792ab0f)<br>
 [6. 나누기(1975)](https://hot-cheshire-a21.notion.site/147821c78b60806e91e2fe66df1970d6)<br>
+[7. 평균(1546)](https://hot-cheshire-a21.notion.site/149821c78b60808a8048fa4e6ec0fd72)<br>
+[8. 단어의 개수( 1152)](https://hot-cheshire-a21.notion.site/149821c78b60806c9070d2c250276987)<br>
 
 
 > ## Programmers
