@@ -36,7 +36,7 @@
 ### ArrayList:
 - 동적 배열로 배열은 크기가 고정되지만 ArrayList는 크기가 동적으로 변할 수 있음
 - ArrayList는 요소를 추가하거나 삭제할 때 내부적으로 크기를 재조정함
-- 예시: `ArrayList<Integer> list = new ArrayList<>();`로 선언하고 `list.add(10);`으로 추가
+- ex.  `ArrayList<Integer> list = new ArrayList<>();`로 선언하고 `list.add(10);`으로 추가
 - **장점**: 크기 조정이 가능하여 유연
 - **단점**: 요소 추가/삭제 시에 메모리 재조정이 필요하여 성능이 떨어질 수 있음
 
