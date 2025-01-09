@@ -7,7 +7,7 @@
 > ## ETC
 
 # Algorithm 풀기 전 알아두기
-> ## 자료형(Data Types)
+> ## 자료형(Data Types) 
 자바의 자료형은 크게 기본 자료형(Primitive)과 참조 자료형(Reference Type)으로 구분
 
 ### 1. 기본 자료형 (Primitive Data Types)
