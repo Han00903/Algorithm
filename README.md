@@ -1,10 +1,10 @@
 # Algorithm
 
-> ## Baekjoon
+> ## java.Baekjoon
 
-> ## Programmers
+> ## java.Programmers
 
-> ## ETC
+> ## java.ETC
 
 # Algorithm 풀기 전 알아두기
 > ## 자료형(Data Types) 
